@@ -1,3 +1,4 @@
+#Each line runs the pipeline for different retina
 bash run_pipeline.sh 140g_rn3 c2knl_full_retina
 bash run_pipeline.sh 140g_rn4 c2knl_full_retina
 bash run_pipeline.sh 140g_rn5 c2knl_full_retina
